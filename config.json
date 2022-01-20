@@ -1,0 +1,7 @@
+{
+    "bridge_ip_address": "192.168.212.73",
+    "light_names": [
+        "Desk Light Bar"
+    ],
+    "scan_frequency_seconds": 3
+}
